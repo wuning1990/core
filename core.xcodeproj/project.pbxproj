@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33665C2118616E380060D8B2 /* forthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33665C2018616E380060D8B2 /* forthViewController.m */; };
 		33947483185FEFB100ECEF88 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33947482185FEFB100ECEF88 /* UIKit.framework */; };
 		33947485185FEFB100ECEF88 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33947484185FEFB100ECEF88 /* Foundation.framework */; };
 		33947487185FEFB100ECEF88 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33947486185FEFB100ECEF88 /* CoreGraphics.framework */; };
@@ -29,6 +30,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		33665C1F18616E380060D8B2 /* forthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = forthViewController.h; sourceTree = "<group>"; };
+		33665C2018616E380060D8B2 /* forthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = forthViewController.m; sourceTree = "<group>"; };
 		3394747F185FEFB100ECEF88 /* core.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = core.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33947482185FEFB100ECEF88 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		33947484185FEFB100ECEF88 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -111,6 +114,8 @@
 				339474A3185FEFB100ECEF88 /* APLDetailViewController.m */,
 				7231F0F218616D04005F16A1 /* theTheardViewController.h */,
 				7231F0F318616D04005F16A1 /* theTheardViewController.m */,
+				33665C1F18616E380060D8B2 /* forthViewController.h */,
+				33665C2018616E380060D8B2 /* forthViewController.m */,
 				7231F0F418616D04005F16A1 /* theTheardViewController.xib */,
 				339474A5185FEFB100ECEF88 /* APLMasterViewController_iPhone.xib */,
 				339474A8185FEFB100ECEF88 /* APLMasterViewController_iPad.xib */,
@@ -213,6 +218,7 @@
 				339474A1185FEFB100ECEF88 /* APLMasterViewController.m in Sources */,
 				339474A4185FEFB100ECEF88 /* APLDetailViewController.m in Sources */,
 				7231F0F518616D04005F16A1 /* theTheardViewController.m in Sources */,
+				33665C2118616E380060D8B2 /* forthViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

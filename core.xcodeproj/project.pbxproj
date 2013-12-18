@@ -24,6 +24,8 @@
 		339474AA185FEFB100ECEF88 /* APLMasterViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 339474A8185FEFB100ECEF88 /* APLMasterViewController_iPad.xib */; };
 		339474AD185FEFB100ECEF88 /* APLDetailViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 339474AB185FEFB100ECEF88 /* APLDetailViewController_iPhone.xib */; };
 		339474B0185FEFB100ECEF88 /* APLDetailViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 339474AE185FEFB100ECEF88 /* APLDetailViewController_iPad.xib */; };
+		7231F0F518616D04005F16A1 /* theTheardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7231F0F318616D04005F16A1 /* theTheardViewController.m */; };
+		7231F0F618616D04005F16A1 /* theTheardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7231F0F418616D04005F16A1 /* theTheardViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +52,9 @@
 		339474A9185FEFB100ECEF88 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/APLMasterViewController_iPad.xib; sourceTree = "<group>"; };
 		339474AC185FEFB100ECEF88 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/APLDetailViewController_iPhone.xib; sourceTree = "<group>"; };
 		339474AF185FEFB100ECEF88 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/APLDetailViewController_iPad.xib; sourceTree = "<group>"; };
+		7231F0F218616D04005F16A1 /* theTheardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = theTheardViewController.h; sourceTree = "<group>"; };
+		7231F0F318616D04005F16A1 /* theTheardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = theTheardViewController.m; sourceTree = "<group>"; };
+		7231F0F418616D04005F16A1 /* theTheardViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = theTheardViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +109,9 @@
 				339474A0185FEFB100ECEF88 /* APLMasterViewController.m */,
 				339474A2185FEFB100ECEF88 /* APLDetailViewController.h */,
 				339474A3185FEFB100ECEF88 /* APLDetailViewController.m */,
+				7231F0F218616D04005F16A1 /* theTheardViewController.h */,
+				7231F0F318616D04005F16A1 /* theTheardViewController.m */,
+				7231F0F418616D04005F16A1 /* theTheardViewController.xib */,
 				339474A5185FEFB100ECEF88 /* APLMasterViewController_iPhone.xib */,
 				339474A8185FEFB100ECEF88 /* APLMasterViewController_iPad.xib */,
 				339474AB185FEFB100ECEF88 /* APLDetailViewController_iPhone.xib */,
@@ -188,6 +196,7 @@
 				339474AA185FEFB100ECEF88 /* APLMasterViewController_iPad.xib in Resources */,
 				339474AD185FEFB100ECEF88 /* APLDetailViewController_iPhone.xib in Resources */,
 				339474B0185FEFB100ECEF88 /* APLDetailViewController_iPad.xib in Resources */,
+				7231F0F618616D04005F16A1 /* theTheardViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -203,6 +212,7 @@
 				3394749E185FEFB100ECEF88 /* core.xcdatamodeld in Sources */,
 				339474A1185FEFB100ECEF88 /* APLMasterViewController.m in Sources */,
 				339474A4185FEFB100ECEF88 /* APLDetailViewController.m in Sources */,
+				7231F0F518616D04005F16A1 /* theTheardViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -351,6 +361,7 @@
 				339474B5185FEFB100ECEF88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
